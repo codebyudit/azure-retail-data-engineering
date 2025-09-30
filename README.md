@@ -71,7 +71,8 @@ The final step was to make the curated data from the **Gold layer** accessible t
 #### Power BI Integration  
 - Connected **Power BI** to **Azure Synapse Analytics** for seamless access to curated Gold-layer data.  
 - Designed **dashboards and reports** to present actionable insights to stakeholders.
-- <img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/49b181fc-2a23-4212-861a-084733212844" />
+  <img width="1920" height="975" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/ee9a97ac-aed5-4c34-b49f-2b64845933e1" />
+
 
 
 ## Key Takeaways 🌐  
